@@ -51,7 +51,7 @@ So in Octave/Matlab,
 #### [Exercise 5]
 * Regularized Linear Regression
 * Bias vs. Variance
-#### [Exercise 6](
+#### [Exercise 6]
 * Support Vector Machines
 * Spam email Classifier
 #### [Exercise 7]
